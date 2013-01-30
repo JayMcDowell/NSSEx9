@@ -1,0 +1,339 @@
+
+.clearfix:after {
+	content: ".";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+.labels {
+	font-size: 50px;
+	margin-left: 7%;
+	margin-bottom: -20px;
+}
+h2 {
+	font-size: 50px;
+	color: #FFF;
+	padding: 0px;
+	margin-left: 7%;
+}
+body {
+	min-width: 40%;
+	background-color: #3366CC;
+	font: normal 100%;
+}
+ a:link {
+ 	color: #000000;
+ }
+/*this starts my header section*/
+header {
+	width:90%;
+	margin: 5%;
+	/*height: 350px;*/
+	/*background-color: #ffffff;*/
+	border-radius: 5px;
+	background-image: url("http://i1356.photobucket.com/albums/q730/jaymcdowe11/white50percent2layers_zps030a025c.png");
+	margin-bottom: 1%;
+}
+#Jay {
+ 	font-size: 4em;
+ 	float: left;
+ 	padding-top: 10px;
+ 	padding-left: 5%;
+ 	margin-top: 2%;
+ }
+
+#jnav ul {
+	list-style: none;
+	margin:5%;
+	padding: 0px;
+	list-style: none;
+	float: right;
+}
+	#jnav ul li {
+		float: left;
+	}
+
+	#jnav ul li a {
+        display: inline block;
+		padding: 10px 20px;
+		background: #3366CC;
+		color: white;
+		text-decoration: none;
+		font-family: sans-serif;
+		}
+
+#jnav ul li a:hover {
+	background: lightgray;
+}
+
+#jayNavbar {
+	position: relative;
+	top: 10px;
+	right: 0%;
+}
+#headshot {
+ 	clear: both;
+ 	min-width: 5%;
+ 	width: 18%;
+ 	margin: 2% ;
+ 	margin-left: 7%;
+ 	float: left;
+ 	border: 5px solid #000000;
+ 	margin-bottom: 4%;
+
+ }
+ 
+#aboutheader {
+ 	
+ 	float: left;
+ 	font-family: verdana;
+ 	font-size: 28px;
+ 	min-width: 20%;
+ 	width: 68%;
+ 	/*overflow: hidden;*/
+ 	margin-top: 5.3%;
+ 	margin-left: -3%;
+ 	text-align: right;
+ 	list-style: none;
+}
+/*this ends my header section*/
+/*this is the beginning of my bio section*/
+#about {
+	clear:both;
+}
+#aboutme {
+	background-image: url("http://i1356.photobucket.com/albums/q730/jaymcdowe11/white50percent2layers_zps030a025c.png");
+	width:90%;
+	margin: 0 5%;
+	border-radius: 5px;
+}
+
+#leap {
+	width: 33%;
+	float: left;
+	margin: 2%;
+}
+#kidsears {
+	width: 97%;
+	float: left;
+	margin-top: 3.3%;
+	margin-bottom: 5%;
+}
+#bio {
+	clear:both;
+	font-size: 24px;
+	margin: 2% 0%;
+	text-align: center;
+
+}
+#rightabout {
+	float: left;
+	width: 63%;
+}
+
+/*this is the end of my bio section*/
+/*this starts my latest projects section*/
+#latest {
+	clear:both;
+}
+	#latestprojects {
+	/*overflow:hidden;*/
+	background-image: url("http://i1356.photobucket.com/albums/q730/jaymcdowe11/white50percent2layers_zps030a025c.png");
+	width:90%;
+	margin: 0 5%;
+	/*height: 350px;
+	/*background-color: #ffffff;*/
+	border-radius: 5px;
+}
+.top2 {
+	float: left;
+	width: 50%;
+}
+#guitar {
+	
+	margin: 2% 10%;
+	font-size: 20px;
+	text-align: center;
+	/*background-color: red;*/
+}
+
+#guitarvid {
+	
+	margin: 2% 5%;
+	/*padding: 0 10%;*/
+}
+
+#gruhn {
+	
+	
+	font-size: 24px;
+	margin: 2% 10%;
+	text-align: center;
+}
+
+#gruhnvid {
+	
+	margin: 2% 5%;
+}
+
+.bot1 {
+	clear: both;
+	float: left;
+	width: 50%;
+}
+
+.bot2 {
+	float: left;
+	width: 50%;
+}
+#sesac {
+
+	margin: 2% 10%;
+	font-size: 24px;
+	text-align: center;
+}
+
+#sesacvid {
+
+	margin: 2% 5%;
+}
+#scruggs {
+	
+	
+	font-size: 20px;
+	margin: 2% 10%;
+	text-align: center;
+}
+#scruggsvid {
+
+	margin: 2% 5%;
+}
+/*this ends my latest projects section*/
+/*this starts my past projects section*/
+
+#past {
+	clear:both;
+}
+
+#pastprojects {
+	background-image: url("http://i1356.photobucket.com/albums/q730/jaymcdowe11/white50percent2layers_zps030a025c.png");
+	width:90%;
+	margin: 0 5%;
+	border-radius: 5px;
+}
+
+#buckingham {
+	
+	margin: 2% 10%;
+	font-size: 24px;
+	text-align: center;
+	/*background-color: red;*/
+}
+
+#buckinghamvid {
+	
+	margin: 2% 5%;
+	/*padding: 0 10%;*/
+}
+
+#beckett {
+	
+	
+	font-size: 24px;
+	margin: 2% 10%;
+	text-align: center;
+}
+
+#beckettvid {
+	
+	margin: 2% 5%;
+}
+
+#reel {
+	
+	
+	font-size: 24px;
+	margin: 2% 10%;
+	text-align: center;
+}
+
+#reelvid {
+	
+	margin: 2% 5%;
+}
+
+#farmer {
+	
+	
+	font-size: 24px;
+	margin: 2% 10%;
+	text-align: center;
+}
+
+#farmervid {
+	
+	margin: 2% 5%;
+}
+/*this is the end of past projects*/
+/*this is the start of bottom info*/
+#bottomwrap {
+	width:90%;
+	margin: 0 5%;
+}
+#contact {
+	clear: both;
+	width: 100%;
+}
+#contactinfo {
+	float:left;
+	background-image: url("http://i1356.photobucket.com/albums/q730/jaymcdowe11/white50percent2layers_zps030a025c.png");
+	padding-left: 3%;
+	width:100%;
+	margin: 0 5%;
+	border-radius: 5px;
+}
+
+#blog {
+	margin-left: 39%;
+}
+#bloginfo {
+	float:left;
+	background-image: url("http://i1356.photobucket.com/albums/q730/jaymcdowe11/white50percent2layers_zps030a025c.png");
+	padding-left: 3%;
+	width:100%;
+	margin-right: 0 5%;
+	border-radius: 5px;
+}
+#bottomwrappera {
+	float: left;
+	width: 29%;
+	border-left: 2%;
+}
+#bottomwrapperb {
+	width: 30%;
+	margin-left: 5%;
+	float: left;
+}
+#bottomwrapperc {
+	float: left;
+	width: 30%;
+	margin-left: 2%;
+}
+#social {
+	margin-left: 6%;
+	font-size: 45px;
+	margin-bottom: -29px;
+	margin-top: 45px;
+}
+
+#socialinfo {
+	float: left;
+	background-image: url("http://i1356.photobucket.com/albums/q730/jaymcdowe11/white50percent2layers_zps030a025c.png");
+	padding-right: 3%;
+	width:100%;
+	margin: 3% 5% 0 5%;
+	border-radius: 5px;
+	text-align: right;
+
+}
