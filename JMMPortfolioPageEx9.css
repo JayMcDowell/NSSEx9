@@ -27,12 +27,10 @@ body {
  }
 /*this starts my header section*/
 header {
+	background-image: url("http://i1356.photobucket.com/albums/q730/jaymcdowe11/white50percent2layers_zps030a025c.png");
 	width:90%;
 	margin: 5%;
-	/*height: 350px;*/
-	/*background-color: #ffffff;*/
 	border-radius: 5px;
-	background-image: url("http://i1356.photobucket.com/albums/q730/jaymcdowe11/white50percent2layers_zps030a025c.png");
 	margin-bottom: 1%;
 }
 #Jay {
